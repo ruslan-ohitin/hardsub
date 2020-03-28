@@ -1,3 +1,5 @@
+# Hardsub
+
 Руслан Охитин, Новосибирск, 2020
 ruslan.ohitin@gmail.com
 
@@ -10,10 +12,10 @@ ruslan.ohitin@gmail.com
 С помощью редактора субтитров записать текст песни с привязкой ко времени.
 "Впечатать" субтитры в видео, как картинку (хардсаб), чтобы видео можно было проиграть на телевизоре.
 
-Установка программ с помощью пакетного менеджера chocolatey (https://chocolatey.org):
+Установка программ с помощью пакетного менеджера chocolatey <https://chocolatey.org>
 choco install ffmpeg subtitleedit -y
 
 Скрипты:
-video.cmd - преобразует mp3 в mp4, из файла template.ass копирует субтитры 
+video.cmd - преобразует mp3 в mp4, из файла template.ass копирует субтитры
 hardsub.cmd - для заданного файла "file.mp4" создает видео "file Sub.mp4", вшивая в него субтиры "file.ass"
 template.ass - шаблон субтитров. Описание формата есть в файле ass-specs.pdf в папке docs
