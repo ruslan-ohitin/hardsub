@@ -6,8 +6,8 @@ PlayResY: 288
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Title,Arial,22,&H00ffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,11,10,10,10,0
-Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,10,0
+Style: Title,Arial,18,&H00ffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,11,10,10,10,0
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,10,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
